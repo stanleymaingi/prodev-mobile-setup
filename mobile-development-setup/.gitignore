@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# VS Code / Visual Studio files
+.vs/
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
